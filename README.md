@@ -1,3 +1,2 @@
 # CISC372-Project
-CISC 372 - Advanced Data Analytics Term Project
-Topic: Shoulder Implant X-Ray Manufacturer Classification 
+Advanced Data Analytics Final Project: Shoulder Implant X-Ray Manufacturer Classification 
