@@ -1,0 +1,2 @@
+Randomly select 25% of the total image for testing (around 150 images). These images do not involving in the data augmentation process.
+The rest of the images act as training data, these images involves in the data augmentation process.
