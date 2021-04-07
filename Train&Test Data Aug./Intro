@@ -1,6 +1,10 @@
+Project Log:
+
 Randomly select 25% of the total image for testing (around 150 images). These images do not involving in the data augmentation process.
 The rest of the images act as training data, these images involves in the data augmentation process.
 Both files ONLY contain the image name
 
 training images augmented (total of 4000+ images): https://drive.google.com/file/d/1oergzsJ93dlX7Gu8Pm7WWDKy-EEHNhgc/view?usp=sharing
 test images (these images do not perform augmentation, total of 150 images as usual): https://drive.google.com/file/d/1-LmvoFEbFuVWIaSdwilVyskagsLUdDqt/view?usp=sharing
+
+due to ram limitation, the original augmented images has been truncated by a half (now consists 2000 images): https://drive.google.com/file/d/1v8ynI0p6ZySEHTP6NXWL7ljLnujW-9Au/view?usp=sharing
